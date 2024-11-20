@@ -3,6 +3,6 @@
 
 int main(){
 
-	printf(“heihei”);
+	printf(“heihei01”);
 	return 0;
 }
